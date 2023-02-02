@@ -1,4 +1,4 @@
-# GitHub Teacher
+# GitHub UX Writer
 
 Charting the knowledge of the Internet, just like Galileo charted the stars.
 
